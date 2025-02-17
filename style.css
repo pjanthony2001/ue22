@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: monospace, cursive;
     max-width: 800px;
     margin: auto;
     padding: 20px;
@@ -10,7 +10,9 @@ body {
 }
 
 h1, h2 {
-    color: #3114b1;
+    color: rebeccapurple;
+    font: bold;
+    font-family: monospace;
 }
 
 .section {
